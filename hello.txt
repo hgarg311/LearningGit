@@ -1,0 +1,7 @@
+hello my name is Harsh
+
+vrsion of the files are saved 
+who made changes and what
+.git local repo
+
+hello my favourite colour is red
