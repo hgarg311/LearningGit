@@ -1,2 +1,5 @@
 hello i am abc.txt file
 jasjmsl
+git branch -M main
+git remote add origin https://github.com/hgarg311/LearningGit.git
+git push -u origin main
